@@ -1,0 +1,27 @@
+body {
+    background-color: #3498db; /* Fondo azul */
+    color: #fff; /* Texto blanco */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #2980b9; /* Azul más oscuro para la cabecera */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+#content {
+    margin: 20px auto;
+    width: 80%; /* Ajusta el ancho del contenido */
+}
+
+#mynetwork {
+    width: 100%; /* Ajusta el ancho del mapa curricular al 100% del contenedor */
+    height: 900px; /* Ajusta la altura del mapa curricular */
+    margin-top: 20px; /* Espacio entre el texto y el mapa */
+}
